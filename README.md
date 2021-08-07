@@ -5,3 +5,5 @@ Creating necessary UML diagrams to visualize architecture that will make sense f
 
 ### 1. Activity Diagram
 ### 2. Sequence Diagram
+### 3. State Diagram
+### 4. Class Diagram
